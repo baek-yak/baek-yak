@@ -40,16 +40,18 @@
   <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
 
   <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+      🧑‍💻 Contact me 
+    </h2> <br>
     <div style="font-size: 16px; color: #333; font-family: Arial, sans-serif; background-color: #f0f0f0; padding: 8px 12px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); max-width: 250px; word-wrap: break-word; text-align: center;">
       wkdalsrud113@naver.com
     </div>
-
-  <br/>
   </div>
+
+  <div>
     # :running: Activity :running:
     
-    삼성 청년 SW 아카데미 11기(24.1.2 ~ 24.12.20)
+    삼성 청년 SW 아카데미 11기(24.1.2 ~ 24.12.20)<br/>
   </div>
   <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
