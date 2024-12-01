@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />&nbsp
   </div>
 
-  ####  :clipboard:  
+  ####  :clipboard:  Lanuage
   <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
 
   <div align="center">
